@@ -2,7 +2,7 @@
 
 Based on a stupid idea, prints out a list of "layers" to make a random burger.
 
-Ingredients are printed top down, so a [https://en.wikipedia.org/wiki/Big_Mac](Big Mac)
+Ingredients are printed top down, so a [Big Mac](https://en.wikipedia.org/wiki/Big_Mac)
 would appear as:
 
 ```text
